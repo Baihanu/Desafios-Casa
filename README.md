@@ -3,17 +3,17 @@
 Seja bem-vindo, **Casa**!  
 Aqui começa sua jornada no mundo da programação com **Python** e **TDD (Test Driven Development)**! 😄🐍
 
-Neste projeto, você vai encarar **10 desafios práticos**, do nível mais fácil ao mais desafiador.  
+Neste projeto, você vai encarar **9 desafios práticos**, do nível mais fácil ao mais desafiador.  
 E o melhor: **vamos testar o código desde o início**, como um verdadeiro programador profissional.
 
 ---
 
 ## 💡 Como funciona
 
-Cada desafio está dividido em dois arquivos:
+Cada desafio está dividido em arquivos:
 
-- 📄 `exercicio_XX.py` → Onde você implementa sua lógica
-- 🧪 `test_exercicio_XX.py` → Onde você escreve (ou roda) os testes automatizados com `pytest`
+- 📄 `a primeira funçãoy` → É onde você implementa sua lógica
+- 🧪 `test...` → Onde você escreve (ou roda) os testes automatizados com `pytest`
 
 ---
 
@@ -52,16 +52,15 @@ pytest test_exercicio_03.py
 📚 Lista de Exercícios
 | Nº | Desafio                 | Tema                    |
 | -- | ----------------------- | ----------------------- |
-| 1  | Olá, Mundo              | `print()` básico        |
-| 2  | Soma de dois números    | entrada e saída         |
-| 3  | Par ou Ímpar            | condicionais            |
-| 4  | Contador até 10         | laços `for`             |
-| 5  | Tabuada                 | laços + multiplicação   |
-| 6  | Lista de nomes em ordem | listas e `.sort()`      |
-| 7  | Palíndromos             | strings + slicing       |
-| 8  | Jogo de adivinhação     | laços + `random`        |
-| 9  | Calculadora com funções | funções + operadores    |
-| 10 | Validador de CPF        | lógica + validação real |
+| 1  | Soma de dois números    | entrada e saída         |
+| 2  | Par ou Ímpar            | condicionais            |
+| 3  | Contador até 10         | laços `for`             |
+| 4  | Tabuada                 | laços + multiplicação   |
+| 5  | Lista de nomes em ordem | listas e `.sort()`      |
+| 6  | Palíndromos             | strings + slicing       |
+| 7  | Jogo de adivinhação     | laços + `random`        |
+| 8  | Calculadora com funções | funções + operadores    |
+| 9  | Validador de CPF        | lógica + validação real |
 
 ---
 
