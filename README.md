@@ -37,3 +37,43 @@ Antes de tudo, instale o `pytest`:
 ```bash
 pip install pytest
 ```
+
+Depois, para rodar todos os testes:
+```bash
+pytest
+```
+
+Ou para rodar apenas um exercício:
+```bash
+pytest test_exercicio_03.py
+```
+
+📚 Lista de Exercícios
+Nº	Desafio	Tema
+1	Soma de dois números	entrada e saída
+2	Par ou Ímpar	condicionais
+3	Contador até 10	laços for
+4	Tabuada	laços + multiplicação
+5	Lista de nomes em ordem	listas e .sort()
+6	Palíndromos	strings + slicing
+7	Jogo de adivinhação	laços + random
+8	Calculadora com funções	funções + operadores
+9	Validador de CPF	lógica + validação real
+
+
+😎 Dicas para aproveitar melhor
+Leia as docstrings nas funções — são seus guias no código.
+
+Use os testes como missões: seu objetivo é fazer todos eles passarem.
+
+Faça commits pequenos e organizados, com mensagens como:
+
+"feat: exercício 5 completo"
+
+"test: valida palíndromo"
+
+"refactor: função de CPF otimizada"
+
+
+Com carinho,
+Lucas Eduardo ✨
