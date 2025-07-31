@@ -47,19 +47,23 @@ Ou para rodar apenas um exercício:
 ```bash
 pytest test_exercicio_03.py
 ```
+---
 
 📚 Lista de Exercícios
-Nº	Desafio	Tema
-1	Soma de dois números	entrada e saída
-2	Par ou Ímpar	condicionais
-3	Contador até 10	laços for
-4	Tabuada	laços + multiplicação
-5	Lista de nomes em ordem	listas e .sort()
-6	Palíndromos	strings + slicing
-7	Jogo de adivinhação	laços + random
-8	Calculadora com funções	funções + operadores
-9	Validador de CPF	lógica + validação real
+| Nº | Desafio                 | Tema                    |
+| -- | ----------------------- | ----------------------- |
+| 1  | Olá, Mundo              | `print()` básico        |
+| 2  | Soma de dois números    | entrada e saída         |
+| 3  | Par ou Ímpar            | condicionais            |
+| 4  | Contador até 10         | laços `for`             |
+| 5  | Tabuada                 | laços + multiplicação   |
+| 6  | Lista de nomes em ordem | listas e `.sort()`      |
+| 7  | Palíndromos             | strings + slicing       |
+| 8  | Jogo de adivinhação     | laços + `random`        |
+| 9  | Calculadora com funções | funções + operadores    |
+| 10 | Validador de CPF        | lógica + validação real |
 
+---
 
 😎 Dicas para aproveitar melhor
 Leia as docstrings nas funções — são seus guias no código.
@@ -74,6 +78,7 @@ Faça commits pequenos e organizados, com mensagens como:
 
 "refactor: função de CPF otimizada"
 
+---
 
 Com carinho,
 Lucas Eduardo ✨
