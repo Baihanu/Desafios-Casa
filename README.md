@@ -12,7 +12,7 @@ E o melhor: **vamos testar o código desde o início**, como um verdadeiro progr
 
 Cada desafio está dividido em arquivos:
 
-- 📄 `a primeira funçãoy` → É onde você implementa sua lógica
+- 📄 `a primeira função` → É onde você implementa sua lógica
 - 🧪 `test...` → Onde você escreve (ou roda) os testes automatizados com `pytest`
 
 ---
@@ -45,7 +45,7 @@ pytest
 
 Ou para rodar apenas um exercício:
 ```bash
-pytest test_exercicio_03.py
+pytest ex_03.py
 ```
 ---
 
